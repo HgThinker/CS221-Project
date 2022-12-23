@@ -13,6 +13,7 @@ bao nhiêu	P
 điểm	N
 ạ	I
 ?	CH
+	
 Nếu	C
 có	V
 bằng_Toeic	N
@@ -30,6 +31,7 @@ Anh_Văn_3	N
 không	R
 ạ	I
 ?	CH
+	
 Bằng	N
 Toeic	N
 có	V
@@ -63,6 +65,7 @@ ra_trường	V
 không	R
 ạ 	I
 ?	CH
+	
 Mình	P
 sẽ	R
 cùng	R
@@ -99,6 +102,7 @@ hoàn_toàn	R
 công_ty	N
 mới	A
 .	CH
+	
 Trong	E
 5	M
 năm	N
@@ -122,6 +126,7 @@ cho_tới_khi 	E
 trở_thành 	V
 Senior	N
 .	CH
+	
 Hiện_tại 	R
 mình 	P
 cũng 	R
@@ -133,6 +138,7 @@ bạn 	N
 tại 	E
 công_ty	N
 .	CH
+	
 SV 	N
 UIT 	Np
 được 	V
@@ -157,6 +163,7 @@ hoàn_thành 	V
 lớp_học 	N
 đúng_hạn	R
 .	CH
+	
 Mình 	P
 có 	R
 sưu_tầm 	V
@@ -188,6 +195,7 @@ rèn_luyện	A
 ,	CH
 ôn_thi	A
 .	CH
+	
 Bất kỳ 	A
 xử phạt 	N
 nào 	I
@@ -213,6 +221,7 @@ lý do 	N
 bị	V
 ẩn_đi	V
 .	CH
+	
 BHTCNPM	N
 với 	C
 các	D
@@ -254,6 +263,7 @@ và	C
 thi 	V
 thật_tốt	E
 .	CH
+	
 Do 	C
 trong 	E
 quá_trình 	N
@@ -288,6 +298,7 @@ nâng_cấp 	V
 phiên_bản 	N
 mới	A
 .	CH
+	
 Ban_quản_trị 	N
 túc_trực 	V
 ở 	E
@@ -320,6 +331,7 @@ có 	V
 tác_dụng 	V
 gì	R
 .	CH
+	
 Nếu 	C
 bạn 	N
 cho_rằng 	V
@@ -357,6 +369,7 @@ thắc mắc	V
 , 	CH
 góp ý	V
 .	CH
+	
 Thầy 	N
 cô	N
 cho 	E
@@ -389,6 +402,7 @@ Kỹ_thuật_phần_mềm 	N
 không 	R
 ạ	I
 ?	CH
+	
 Em 	P
 thi 	V
 chứng_chỉ	N
@@ -431,6 +445,7 @@ như 	E
 hình	N
 kèm_theo	V
 .	CH
+	
 Do	C
 tình_hình 	N
 dịch_bệnh 	N
@@ -463,6 +478,7 @@ hoàn_thành 	V
 chuyển 	V
 ngành	N
 ?	CH
+	
 Em 	P
 sợ 	V
 lúc 	N
@@ -495,6 +511,7 @@ em 	P
 hơi 	R
 lo	V
 .	CH
+	
 Chào 	V
 các 	D
 anh 	N
@@ -535,6 +552,7 @@ Giải_tích	N
 ,	CH
 Nhập_môn_mạch_số	N
 .	CH
+	
 Như 	E
 tiêu_đề 	N
 cho 	V
@@ -552,6 +570,7 @@ xếp_loại_học_lực 	N
 không 	R
 ạ	I
 ?	CH
+	
 Cho 	V
 em 	P
 hỏi	V
@@ -603,6 +622,7 @@ phải 	V
 không 	R
 ạ	I
 ?	CH
+	
 Cho 	V
 em 	P 
 hỏi 	V
@@ -645,6 +665,7 @@ thì 	C
 điều_kiện 	N
 ạ	I
 .	CH
+	
 Chuyện 	N
 là 	C
 trưa 	N
@@ -680,6 +701,7 @@ phải 	V
 làm_sao 	V
 ạ	I
 ?	CH
+	
 Mình 	P
 có 	R
 cài	V
@@ -736,6 +758,7 @@ hay 	C
 không 	R
 ạ	I
 ?	CH
+	
 Chào	V
 các	D
 anh	P
@@ -758,6 +781,7 @@ ra_trường 	V
 không 	R
 ạ	I
 ?	CH
+	
 Cho 	V
 em 	P
 hỏi 	V
@@ -795,6 +819,7 @@ nên 	C
 làm gì	V
 ạ	I
 ?	CH
+	
 E 	P
 là 	V
 SV	N
@@ -828,6 +853,7 @@ trang 	N
 nào 	I
 hay	A
 ?	CH
+	
 Các 	D
 anh 	P
 /	CH
@@ -849,6 +875,7 @@ lắm 	R
 không 	R
 ạ	I
 ?	CH
+	
 Ở 	E
 trường 	N
 mình 	P
@@ -874,6 +901,7 @@ còn_lại 	R
 của 	E
 điện_toán	N
 .	CH
+	
 Mọi	D
 người 	N
 cho 	V
@@ -889,6 +917,7 @@ bao 	N
 lâu 	A
 ạ	I
 ?	CH
+	
 E 	P
 đang 	R
 làm 	V
@@ -923,6 +952,7 @@ mấy 	P
 chuyên_ngành 	N
 ạ	I
 ?	CH
+	
 Em 	P
 học 	V
 năm 	N
@@ -948,6 +978,7 @@ sổ_tay 	N
 sinh_viên 	V
 ạ	I
 ?	CH
+	
 Cho 	V
 em 	P
 hỏi 	V
@@ -965,6 +996,7 @@ còn 	R
 code 	V
 yếu	A
 ?	CH
+	
 Cho 	V
 em 	P
 hỏi 	V
@@ -982,6 +1014,7 @@ màu_trắng 	N
 đâu 	R
 ạ	I
 ?	CH
+	
 Nếu 	C
 không_còn 	R
 bán 	V
@@ -998,6 +1031,7 @@ OEP 	N
 không 	R
 ạ	I
 ?	CH
+	
 Wifi 	N
 của 	E
 trường 	N
@@ -1027,6 +1061,7 @@ cũng 	R
 không 	R
 hoạt_động	V
 .	CH
+	
 Hôm_nay 	N
 em 	P
 có 	V
@@ -1050,6 +1085,7 @@ hộc_bàn 	N
 có 	V
 rác	N
 .	CH
+	
 Mong	V
 rằng 	C
 các 	D
@@ -1083,6 +1119,7 @@ học_tập 	N
 sạch_sẽ 	A
 ạ	I
 .	CH
+	
 Dạ 	I
 các 	D
 thầy_cô 	P
@@ -1108,6 +1145,7 @@ cần 	V
 gì 	X
 ko 	R
 ?	CH
+	
 Em 	P
 xin 	V
 góp	V
@@ -1133,6 +1171,7 @@ lap	N
 máy_tính 	N
 ạ	I
 .	CH
+	
 Em 	P
 chưa 	R
 đăng_ký 	V
@@ -1151,6 +1190,7 @@ e 	P
 vậy 	C
 ạ	I
 ?	CH
+	
 Email 	N
 gm.uit.edu.vn 	X
 của 	E
