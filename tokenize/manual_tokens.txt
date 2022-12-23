@@ -1,22 +1,25 @@
 Để
 đủ
 điều_kiện  
-ra_trường
+ra
+trường
 thì
 em
 cần
 đạt
-bằng_Toeic
+bằng
+Toeic
 ở
 mức
-bao nhiêu
+bao_nhiêu
 điểm
 ạ
 ?
 
 Nếu
 có
-bằng_Toeic
+bằng
+Toeic
 2
 kỹ_năng
 450
@@ -26,7 +29,8 @@ thì
 không
 cần
 học
-Anh_Văn_3
+Anh_Văn
+3
 đúng
 không
 ạ
@@ -60,7 +64,9 @@ phải
 thi
 lại
 để
-ra_trường
+được
+ra
+trường
 đúng
 không
 ạ 
@@ -89,10 +95,12 @@ làm
 nền_tảng
 kiến_thức
 thực_tế
-giúp_cho
+giúp
+cho
 các
 bạn
-ra_trường
+ra
+trường
 không
 phải
 đào_tạo
@@ -116,11 +124,13 @@ cũng
 tham_gia 
 đào_tạo 
 nhiều 
-bạn_trẻ 
+bạn
+trẻ 
 từ 
 ngày 
 mới 
-ra_trường 
+ra
+trường 
 cho_tới_khi 
 đã 
 trở_thành 
@@ -187,7 +197,8 @@ BKHN
 muốn 
 chia_sẻ 
 với 
-các_bạn 
+các
+bạn 
 để_có 
 thêm 
 tài_liệu 
@@ -196,12 +207,12 @@ rèn_luyện
 ôn_thi
 .
 
-Bất kỳ 
-xử phạt 
+Bất_kỳ 
+xử_phạt 
 nào 
 cũng 
 có 
-lý do 
+lý_do 
 và 
 đều 
 được 
@@ -209,7 +220,7 @@ thông_báo
 riêng 
 với 
 account 
-vi phạm 
+vi_phạm 
 hoặc 
 thông_qua 
 bảng_phong_thần 
@@ -217,7 +228,7 @@ bảng_phong_thần
 trừ 
 việc_xóa_bài 
 là 
-lý do 
+lý_do 
 bị
 ẩn_đi
 .
@@ -239,7 +250,7 @@ hàng_đầu
 với 
 nội_dung 
 kiến_thức 
-dàn trải
+dàn_trải
 từ 
 cơ_bản 
 đến 
@@ -312,7 +323,7 @@ phải
 lúc_nào_cũng 
 online 
 để 
-trả lời 
+trả_lời 
 bạn 
 và 
 những 
@@ -347,7 +358,7 @@ chức_năng
 report
 để 
 báo_cho 
-Ban quản trị
+Ban_quản_trị
 ,
 nếu 
 thấy 
@@ -365,9 +376,9 @@ topic
 riêng 
 trong 
 box 
-thắc mắc
+thắc_mắc
 , 
-góp ý
+góp_ý
 .
 
 Thầy 
@@ -390,7 +401,7 @@ thì
 em 
 có 
 được 
-đăng ký 
+đăng_ký 
 học 
 tiếp 
 các 
@@ -451,8 +462,7 @@ tình_hình
 dịch_bệnh 
 nên 
 sinh_viên 
-chưa 
-thể 
+chưa_thể 
 tới
 trường 
 và 
@@ -530,11 +540,13 @@ bài
 này 
 với
 mong_muốn 
-mọi_người 
+mọi
+người 
 có_thể 
 chia_sẻ 
 cách 
-mọi_người 
+mọi
+người 
 đã 
 học
 để 
@@ -596,19 +608,18 @@ vào
 tháng 
 2
 ,
-nhưng
-mà 
+nhưng_mà 
 lúc 
 đó 
-kỳ_thi 
-tuyển_sinh 
+kỳ_thi_tuyển_sinh 
 cũng_như 
 ĐGNL 
 chưa 
 tổ_chức 
 thì 
 trường 
-dựa_vào 
+dựa
+vào 
 kết_quả 
 thi 
 gần_nhất 
@@ -706,7 +717,7 @@ Mình
 có 
 cài
 phần_mềm 
-Invision Studio 
+Invision_Studio 
 nhưng
 khi 
 mình 
@@ -777,7 +788,8 @@ lại
 sau 
 khi 
 sinh_viên 
-ra_trường 
+ra
+trường 
 không 
 ạ
 ?
@@ -801,8 +813,7 @@ thấy
 hiện 
 hồ_sơ 
 đã 
-đến 
-nơi 
+đến_nơi 
 nhưng 
 em 
 vẫn 
@@ -841,7 +852,8 @@ gần
 có 
 trung_tâm 
 dạy 
-tiếng_Nhật 
+tiếng
+Nhật 
 nào
 tốt 
 và 
@@ -913,8 +925,7 @@ tối_đa
 của 
 trường 
 được 
-bao 
-lâu 
+bao_lâu 
 ạ
 ?
 
@@ -1048,13 +1059,15 @@ Thư_viện
 ngoài_ra 
 thì 
 hệ_thống 
-cáp_wifi 
+cáp
+wifi 
 cắm 
 vào 
 laptop 
 ở 
 các 
-dãy_bàn 
+dãy
+bàn 
 của 
 thư_viện 
 cũng 
@@ -1078,7 +1091,8 @@ chưa
 dọn_dẹp 
 ạ
 dưới 
-sàn_nhà 
+sàn
+nhà
 và 
 trong 
 hộc_bàn 
@@ -1111,7 +1125,8 @@ có_thể
 dọn 
 phòng 
 để 
-tụi_em 
+tụi
+em 
 có 
 một 
 không_gian 
@@ -1148,9 +1163,9 @@ ko
 
 Em 
 xin 
-góp
-ý 
-trường_mình 
+góp_ý 
+trường
+mình 
 nên 
 lắp
 thêm 
@@ -1159,7 +1174,8 @@ vào
 mỗi 
 phòng 
 thực_hành 
-toà B 
+toà
+B 
 để 
 bớt 
 chói 
