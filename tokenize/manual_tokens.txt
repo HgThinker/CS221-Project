@@ -29,7 +29,8 @@ thì
 không
 cần
 học
-Anh_văn
+Anh
+văn
 3
 đúng
 không
@@ -131,7 +132,9 @@ ngày
 mới 
 ra
 trường 
-cho_tới_khi 
+cho
+tới
+khi 
 đã 
 trở_thành 
 Senior
@@ -165,21 +168,23 @@ thay_vì
 khóa
 ,
 tuy_nhiên 
-các bạn 
+các
+bạn
 phải 
 có 
 trách_nhiệm 
 hoàn_thành 
 lớp_học 
-đúng_hạn
+đúng
+hạn
 .
 
 Mình 
 có 
 sưu_tầm 
-1
-số 
-đề_thi 
+một_số
+đề
+thi
 các 
 môn 
 cơ_sở 
@@ -193,7 +198,8 @@ BKHCM
 ,
 BKHN 
 ,
-ĐH_Công_Nghệ 
+ĐH
+Công_Nghệ
 muốn 
 chia_sẻ 
 với 
@@ -205,7 +211,8 @@ thêm
 tài_liệu 
 rèn_luyện
 ,
-ôn_thi
+ôn
+thi
 .
 
 Bất_kỳ 
@@ -225,7 +232,8 @@ vi_phạm
 hoặc 
 thông_qua 
 bảng
-phong_thần 
+phong
+thần
 -
 trừ 
 việc
@@ -234,13 +242,15 @@ bài
 là 
 lý_do 
 bị
-ẩn_đi
+ẩn
+đi
 .
 
 BHTCNPM
 với 
 các
-bài_training
+bài
+training
 luôn_luôn
 đặt
 chất_lượng 
@@ -258,16 +268,19 @@ dàn_trải
 từ 
 cơ_bản 
 đến 
-nâng_cao 
+nâng
+cao
 ,
-cùng_với
+cùng
+với 
 các 
 trainer 
 dồi_dào 
 kinh_nghiệm 
 chuyên_môn 
 sẽ 
-giúp_cho 
+giúp
+cho
 tất_cả 
 các
 bạn 
@@ -276,7 +289,8 @@ có_thể
 ôn_tập 
 và
 thi 
-thật_tốt
+thật
+tốt
 .
 
 Do 
@@ -314,17 +328,21 @@ phiên_bản
 mới
 .
 
-Ban_quản_trị 
+Ban
+quản_trị
 túc_trực 
 ở 
 diễn_đàn 
-luân_phiên_nhau 
+luân_phiên
+nhau
 người 
-ra_quyết_định 
+ra
+quyết_định
 xử_phạt 
 không
 phải 
-lúc_nào_cũng 
+lúc_nào
+cũng 
 online 
 để 
 trả_lời 
@@ -349,7 +367,8 @@ gì
 
 Nếu 
 bạn 
-cho_rằng 
+cho
+rằng 
 có 
 thành_viên 
 nào 
@@ -361,8 +380,10 @@ sử_dụng
 chức_năng 
 report
 để 
-báo_cho 
-Ban_quản_trị
+báo
+cho
+Ban
+quản_trị
 ,
 nếu 
 thấy 
@@ -400,7 +421,8 @@ môn
 chuyên_ngành 
 của 
 ngành 
-Khoa_học_máy_tính
+Khoa_học
+máy_tính
 thì 
 em 
 có 
@@ -413,7 +435,8 @@ môn
 chuyên_ngành 
 của 
 ngành 
-Kỹ_thuật_phần_mềm 
+Kỹ_thuật
+phần_mềm 
 không 
 ạ
 ?
@@ -421,7 +444,7 @@ không
 Em 
 thi 
 chứng_chỉ
-toeic 
+Toeic 
 nghe 
 -
 đọc 
@@ -429,7 +452,10 @@ tại
 trường 
 mình 
 vào 
-tháng 12/2018 
+tháng 
+12
+/
+2018
 và 
 hiện_nay 
 chứng_chỉ 
@@ -458,7 +484,8 @@ và
 2020
 như 
 hình
-kèm_theo
+kèm
+theo
 .
 
 Do
@@ -484,7 +511,8 @@ xin
 chữ_ký 
 của 
 các 
-trưởng_khoa 
+trưởng
+khoa
 để 
 có_thể 
 hoàn_thành 
@@ -510,7 +538,8 @@ xin
 được 
 chữ_ký 
 các 
-trưởng_khoa 
+trưởng
+khoa
 do 
 thời_hạn 
 chỉ 
@@ -566,7 +595,8 @@ Giải_tích
 ,
 Đại_số 
 ,
-Nhập_môn_mạch_số
+Nhập_môn
+mạch_số
 .
 
 Như 
@@ -582,7 +612,9 @@ trường
 mình 
 còn 
 ghi 
-xếp_loại_học_lực 
+xếp
+loại
+học_lực
 không 
 ạ
 ?
@@ -615,8 +647,11 @@ tháng
 nhưng_mà 
 lúc 
 đó 
-kỳ_thi_tuyển_sinh 
-cũng_như 
+kỳ
+thi 
+tuyển_sinh
+cũng
+như
 ĐGNL 
 chưa 
 tổ_chức 
@@ -626,7 +661,8 @@ dựa
 vào 
 kết_quả 
 thi 
-gần_nhất 
+gần
+nhất
 để 
 mà 
 căn_cứ 
@@ -645,7 +681,8 @@ thêm
 là 
 em 
 dùng 
-điểm_thi 
+điểm
+thi
 tốt_nghiệp 
 để 
 xét 
@@ -663,7 +700,8 @@ vậy
 em 
 có_thể 
 dùng 
-điểm_thi 
+điểm
+thi
 ĐGNL 
 để 
 chuyển 
@@ -707,7 +745,8 @@ em
 lo 
 quá
 ,
-lỡ_như 
+lỡ
+như
 bị 
 xóa 
 học_phần 
@@ -808,7 +847,8 @@ nộp
 hồ_sơ 
 xác_nhận 
 nhập_học 
-bản_giấy
+bản
+giấy
 và 
 tra 
 trên 
@@ -817,7 +857,8 @@ thấy
 hiện 
 hồ_sơ 
 đã 
-đến_nơi 
+đến
+nơi
 nhưng 
 em 
 vẫn 
@@ -831,7 +872,8 @@ khẩn_cấp
 bây_giờ 
 em 
 nên 
-làm gì
+làm
+gì
 ạ
 ?
 
@@ -908,12 +950,14 @@ vào
 phần_mềm
 các 
 khoa 
-còn_lại 
+còn
+lại
 chia 
 nhau 
 các 
 lĩnh_vực 
-còn_lại 
+còn
+lại
 của 
 điện_toán
 .
@@ -937,11 +981,13 @@ E
 đang 
 làm 
 đồ_án 
-Giới_thiệu_ngành
+Giới_thiệu
+ngành
 về
 so_sánh
 một_số
-ngành_học
+ngành
+học 
 của
 trường
 ,
@@ -954,7 +1000,9 @@ HTTT
 anh 
 chị 
 nào 
-đã/ đang 
+đã
+/
+đang 
 học 
 cho 
 em 
@@ -999,7 +1047,9 @@ em
 hỏi 
 còn 
 môn 
-lập_trình_hướng_đối_tượng 
+lập_trình 
+hướng
+đối_tượng
 có 
 nên 
 đăng_ký 
@@ -1024,21 +1074,24 @@ có_thể
 mua 
 áo 
 UIT 
-màu_trắng 
+màu
+trắng
 ở 
 đâu 
 ạ
 ?
 
 Nếu 
-không_còn 
+không
+còn
 bán 
 thì 
 em 
 có_thể 
 mặc 
 áo 
-màu_cam 
+màu
+cam
 của 
 chương_trình
 OEP 
@@ -1099,7 +1152,8 @@ sàn
 nhà
 và 
 trong 
-hộc_bàn 
+hộc
+bàn
 có 
 rác
 .
@@ -1109,7 +1163,8 @@ rằng
 các 
 bạn 
 sinh_viên 
-sau_khi 
+sau
+khi
 sử_dụng 
 phòng 
 xong 
@@ -1141,7 +1196,8 @@ sạch_sẽ
 
 Dạ 
 các 
-thầy_cô 
+thầy
+cô
 cho 
 em 
 hỏi 
@@ -1181,7 +1237,7 @@ thực_hành
 toà
 B 
 để 
-bớt 
+bớt
 chói 
 nắng 
 vào 
@@ -1196,11 +1252,13 @@ Em
 chưa 
 đăng_ký 
 học 
-tiếng_anh 
+tiếng
+anh
 ở 
 trường 
 nhưng 
-tại_sao 
+tại
+sao
 lại 
 có 
 thời_khóa_biểu 
@@ -1235,7 +1293,8 @@ mà
 em 
 nhớ
 ,
-cũng_như 
+cũng
+như
 thử 
 đổi 
 lại 
