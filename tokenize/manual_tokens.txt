@@ -1067,7 +1067,7 @@ em
 hỏi 
 là 
 học 
-Thể_Dục 
+thể_dục 
 thì 
 em 
 có_thể 
