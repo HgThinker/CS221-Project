@@ -1482,7 +1482,7 @@ tình_trạng	N
 "	CH
 sập	V
 "	CH
-mỗi	L
+mỗi	D
 khi	N
 đăng_kí	V
 học_phần	N
