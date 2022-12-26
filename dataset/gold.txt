@@ -117,7 +117,7 @@ Trong	E
 năm	N
 làm_việc	V
 tại 	E
-K25	X
+TK25	X
 ,	CH
 mình	P
 cũng	R
@@ -144,7 +144,7 @@ Hiện_tại 	N
 mình 	P
 cũng 	R
 đang 	R
-Mentor 	X
+Mentor	X
 cho 	E
 5	M
 bạn 	N
@@ -157,12 +157,12 @@ UIT 	X
 được 	V
 tham_gia 	V
 lớp_học 	N
-miễn_phí 	V
-thay_vì 	X
+miễn_phí	V
+thay_vì	X
 đóng 	V
 800	M
 . 	CH
-0	M
+000	M
 /	CH
 đ	Nu
 khóa	N
@@ -596,7 +596,8 @@ Giải_tích	N
 Đại_số	N
 ,	CH
 Nhập_môn	V
-mạch_số	N
+mạch	N
+số	N
 .	CH
 	
 Như 	C
@@ -1072,7 +1073,7 @@ thì 	C
 em 	N
 có_thể 	R
 mua	V
-áo 	N
+áo	N
 UIT 	X
 màu	N
 trắng	A
@@ -1089,7 +1090,7 @@ thì 	C
 em 	N
 có_thể 	R
 mặc	V
-áo 	N
+áo	N
 màu	N
 cam	A
 của 	E
@@ -1257,8 +1258,7 @@ anh	N
 ở 	E
 trường 	N
 nhưng 	C
-tại	E
-sao	P
+tại_sao	X
 lại 	R
 có 	V
 thời_khóa_biểu	X
