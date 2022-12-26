@@ -144,7 +144,7 @@ Hiện_tại
 mình 
 cũng 
 đang 
-Mentor 
+Mentor
 cho 
 5
 bạn 
@@ -157,8 +157,8 @@ UIT
 được 
 tham_gia 
 lớp_học 
-miễn_phí 
-thay_vì 
+miễn_phí
+thay_vì
 đóng 
 800
 . 
@@ -596,7 +596,8 @@ Giải_tích
 Đại_số
 ,
 Nhập_môn
-mạch_số
+mạch
+số
 .
 
 Như 
@@ -1072,7 +1073,7 @@ thì
 em 
 có_thể 
 mua
-áo 
+áo
 UIT 
 màu
 trắng
@@ -1089,7 +1090,7 @@ thì
 em 
 có_thể 
 mặc
-áo 
+áo
 màu
 cam
 của 
@@ -1257,8 +1258,7 @@ anh
 ở 
 trường 
 nhưng 
-tại
-sao
+tại_sao
 lại 
 có 
 thời_khóa_biểu
