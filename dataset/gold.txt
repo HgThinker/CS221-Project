@@ -117,7 +117,7 @@ Trong	E
 năm	N
 làm_việc	V
 tại 	E
-K25	X
+TK25	X
 ,	CH
 mình	P
 cũng	R
