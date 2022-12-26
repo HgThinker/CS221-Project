@@ -1321,8 +1321,7 @@ không
 
 Em
 phải
-làm
-gì
+làm_gì
 khi
 không
 đạt
@@ -1371,7 +1370,8 @@ doanh_thu
 em
 phải
 làm
-như_thế_nào
+như
+thế_nào
 ?
 
 Em
@@ -1380,7 +1380,8 @@ làm
 chính_thức
 ngay
 trong
-thời_gian_thực
+thời_gian
+thực
 tập
 được
 không
@@ -1444,7 +1445,8 @@ trường
 mình
 có
 chính_sách
-như_thế_nào
+như
+thế_nào
 và
 xét
 bao_nhiêu
