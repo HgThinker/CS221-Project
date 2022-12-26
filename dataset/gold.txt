@@ -1479,7 +1479,6 @@ môn_học	N
 để	E
 tránh	V
 tình_trạng	N
-"""
 "	CH
 sập	V
 "	CH
