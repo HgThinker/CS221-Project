@@ -1645,7 +1645,7 @@ phòng	N
 	
 Giảng_đường	N
 ,	CH
-các	L
+các	D
 phòng	N
 học	V
 không	R
