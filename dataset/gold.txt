@@ -1507,7 +1507,7 @@ theo	V
 kịp	A
 chương_trình	N
 đào_tạo	N
-.	
+.	CH
 	
 Đề_nghị	V
 nhà_trường	N
