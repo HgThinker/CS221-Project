@@ -7,7 +7,7 @@ thì	C
 em	N
 cần	V
 đạt	V 
-bằng	E
+bằng	N
 Toeic	Np
 ở	E
 mức	N
@@ -18,7 +18,7 @@ bao_nhiêu	P
 	
 Nếu	C
 có	V
-bằng	E
+bằng	N
 Toeic	Np
 2	M
 kỹ_năng	N
@@ -162,7 +162,7 @@ thay_vì	X
 đóng 	V
 800	M
 . 	CH
-0	M
+000	M
 /	CH
 đ	Nu
 khóa	N
@@ -452,7 +452,7 @@ tại 	E
 trường 	N
 mình 	P
 vào 	E
-tháng 	C
+tháng 	N
 12	M
 /	CH
 2018	M
@@ -888,7 +888,7 @@ và	Cc
 ở 	V
 KTX	X
 khu	N
-B	Np
+B	Ni
 ,	CH
 cho 	V
 e 	N
@@ -1335,7 +1335,7 @@ học	V
 cải_thiện	V
 điểm	N
 học_phần	N
-A	Np
+A	N
 ,	CH
 nếu	C
 kết_quả	N
