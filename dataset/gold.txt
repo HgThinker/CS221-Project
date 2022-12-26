@@ -203,7 +203,7 @@ Công_Nghệ	Np
 muốn	V
 chia_sẻ 	V
 với 	C
-các	L
+các	D
 bạn 	N
 để	C
 có 	V
