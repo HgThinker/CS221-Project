@@ -384,7 +384,7 @@ báo	V
 cho	E
 Ban	N
 quản_trị	V
-,	,
+,	CH
 nếu 	C
 thấy 	V
 vi_phạm 	V
